@@ -4,6 +4,7 @@ This repository contains my hands-on practice notebooks created while learning *
 
 The goal of this repository is to strengthen my understanding of working with real-world datasets and performing common data analysis operations.
 
+
 ## 📚 Topics Covered
 
 ### 1. Pandas Basics
@@ -17,6 +18,7 @@ The goal of this repository is to strengthen my understanding of working with re
 - Indexing and filtering
 - Sorting data
 - Adding and removing columns
+- 
 
 ### 3. Handling Missing Data
 - Detecting missing values
